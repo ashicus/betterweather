@@ -1,11 +1,12 @@
-/*.text		{ text-shadow: #555 1px 1px 0px; }*/
-/*.smallinfo	{ color: rgba(255, 255, 255, 1); }*/
+/* Overridden from Weather.css */
 #dayband	{ top: 61px; }
 #grid		{ top: 60px; }
 .day		{ top: 64px; text-shadow: #333 1px 1px 0px; }
 .smallicon	{ top: 83px; }
 .hi			{ top: 114px; text-shadow: #333 1px 1px 0px; }
 .low		{ top: 137px; text-shadow: #333 1px 1px 0px; }
+
+/* New elements */
 
 #update-available {
 	display: none;

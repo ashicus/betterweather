@@ -6,7 +6,7 @@ var kMiddleHeightWithLows 			= 156;
 var kMiddleHeightWithoutLows 		= 136;
 var kUpdateAppCastURL				= "https://dl.dropbox.com/u/360304/BetterWeather/appCast.xml";
 var kUpdateURL						= "http://rectanglicle.com/projects/BetterWeather";
-var kAshURL							= "http://ashic.us";
+var kAshURL							= "http://rectanglicle.com/projects/BetterWeather";
 
 function goToAshSite(event) {
 	if(window.widget) {
